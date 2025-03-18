@@ -1,16 +1,16 @@
 # Firmware for model SM-N970F - from Samsung package version N970FXXS9HWHA
 
-cm.bin_SM-N970F
-dqmdbg.img_SM-N970F
-keystorage.bin_SM-N970F
-modem.bin_SM-N970F
-modem_debug.bin_SM-N970F
-param.bin_SM-N970F
-sboot.bin_SM-N970F
-uh.bin_SM-N970F
-up_param.bin_SM-N970F
+cm.bin_SM-N970F|40ebf495dc7d6ddf4292c6862cd203c617bf5a97
+dqmdbg.img_SM-N970F|487728143785bbda7e94891c510861036c5a317e
+keystorage.bin_SM-N970F|36d364a7880f6520c9ec2ae8f49e89f4072ce8bc
+modem.bin_SM-N970F|e71c5c7a8e5de3fc97d0b577c6eb2f6cc228977a
+modem_debug.bin_SM-N970F|4ad824e0ae17382637892f20d4f5df384e58fc09
+param.bin_SM-N970F|536d142fa04e05364b42d11c192e04784b060c01
+sboot.bin_SM-N970F|c6e004b766fbba97700747e4f2da531efaa4071e
+uh.bin_SM-N970F|610a16f5e94bb1f495088894c14d9a779ebfdb7f
+up_param.bin_SM-N970F|9f49e38c209b04f240129d1428a3e3a0f80cd7db
 
 # File containing the supported models, one per line
-models
+models|c55950824b82b88c5f0fcade4700eec3f44c9cb8
 # Files containing Samsung package version for supported models
-version_SM-N970F
+version_SM-N970F|92167d89c5cdfc317ec76291c49022e4e763242b
