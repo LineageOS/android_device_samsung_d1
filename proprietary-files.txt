@@ -26,7 +26,7 @@ vendor/firmware/bcm4375B1_semco_sem.hcd
 
 ## Camera - from d1 - N970FXXS7GVB1
 vendor/lib64/hw/camera.exynos9825.so|63a55d3796921c03c331a63fa57cd17987442677
-vendor/lib64/libexynoscamera3.so|dba359984d33b5f5c5be532aa28cb4f029773c19|dba359984d33b5f5c5be532aa28cb4f029773c19
+vendor/lib64/libexynoscamera3.so|c3a70cf200642a10e02ddadfbbd2237c39cac13c|c3a70cf200642a10e02ddadfbbd2237c39cac13c
 
 ## Camera Firmware
 vendor/firmware/fimc_is_fw_mcu.bin
